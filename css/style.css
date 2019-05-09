@@ -373,42 +373,42 @@ body{
     background-image: url(../images/rioja_splash.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: contain; 
+    background-size: 90%; 
     background-color: #ffffff;
   }
   .section5-2{
     background-image: url(../images/rioja_home_sm.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: contain;
+    background-size: 90%;
     background-color: #ffffff;  
   }
   .section5-3{
     background-image: url(../images/rioja_pg7.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: contain;
+    background-size: 90%;
     background-color: #ffffff;
   }
   .section5-4{
     background-image: url(../images/rioja_pg3.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: contain;
+    background-size: 90%;
     background-color: #ffffff;  
   }
   .section5-5{
     background-image: url(../images/rioja_pg5.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: contain;
+    background-size: 90%;
     background-color: #ffffff;  
   }
   .section5-6{
     background-image: url(../images/wine_sides.png);
     background-repeat: no-repeat;
     background-position: bottom;
-    background-size: contain;
+    background-size: 90%;
     background-color: #ffffff; 
   }
   .section6-1{
