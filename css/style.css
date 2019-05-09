@@ -401,7 +401,7 @@ body{
     background-image: url(../images/rioja_pg5.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: contain;
+    background-size: 90%;
     background-color: #ffffff;  
   }
   .section5-6{
@@ -575,8 +575,125 @@ body{
     background-position: center;
     background-size: contain;  
   }
-
-
+  .section12-1{
+    background-image: url(../images/7_nicki.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 90%; 
+    background-color: #ffffff;
+  }
+  .section12-2{
+    background-image: url(../images/rip_trey2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 90%;
+    background-color: #ffffff;  
+  }
+  .section13-1{
+    background-image: url(../images/1_abbey.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 90%; 
+    background-color: #ffffff;
+  }
+  .section13-2{
+    background-image: url(../images/2_purple_wishes.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 90%;
+    background-color: #ffffff;  
+  }
+  .section13-3{
+    background-image: url(../images/4_the_moment.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 90%;
+    background-color: #ffffff;
+  }
+  .section13-4{
+    background-image: url(../images/_DSC4733_lo.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 90%;
+    background-color: #ffffff;  
+  }
+  .section13-5{
+    background-image: url(../images/_DSC4731__lo.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 90%;
+    background-color: #ffffff;  
+  }
+  .section13-6{
+    background-image: url(../images/);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: 90%;
+    background-color: #ffffff; 
+  }
+  .section14-1{
+    background-image: url(../images/middle2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 90%; 
+    background-color: #ffffff;
+  }
+  .section14-2{
+    background-image: url(../images/strip_5.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 90%;
+    background-color: #ffffff;  
+  }
+  .section14-3{
+    background-image: url(../images/aiko_trip.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 90%;
+    background-color: #ffffff;
+  }
+  .section16-1{
+    background-image: url(../images/2_tweeked.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 80%; 
+    background-color: #ffffff;
+  }
+  .section16-2{
+    background-image: url(../images/3_tweeked.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    background-color: #ffffff;  
+  }
+  .section16-3{
+    background-image: url(../images/4.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    background-color: #ffffff;
+  }
+  .section16-4{
+    background-image: url(../images/5_tweeked.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 80%;
+    background-color: #ffffff;  
+  }
+  .section16-5{
+    background-image: url(../images/7_tweeked.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 80%;
+    background-color: #ffffff;  
+  }
+  .section16-6{
+    background-image: url(../images/8_tweeked.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 80%;
+    background-color: #ffffff; 
+  }
   #nav{
     width: 100px;
     height: 70px;
