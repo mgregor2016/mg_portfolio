@@ -579,49 +579,49 @@ body{
     background-image: url(../images/7_nicki.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 90%; 
+    background-size: contain; 
     background-color: #ffffff;
   }
   .section12-2{
     background-image: url(../images/rip_trey2.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 90%;
+    background-size: contain;
     background-color: #ffffff;  
   }
   .section13-1{
     background-image: url(../images/1_abbey.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 90%; 
+    background-size: contain; 
     background-color: #ffffff;
   }
   .section13-2{
     background-image: url(../images/2_purple_wishes.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 90%;
+    background-size: contain;
     background-color: #ffffff;  
   }
   .section13-3{
     background-image: url(../images/4_the_moment.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 90%;
+    background-size: contain;
     background-color: #ffffff;
   }
   .section13-4{
     background-image: url(../images/DSC4733_lo.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 90%;
+    background-size: contain;
     background-color: #ffffff;  
   }
   .section13-5{
     background-image: url(../images/DSC4731__lo.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 90%;
+    background-size: contain;
     background-color: #ffffff;  
   }
   .section13-6{
@@ -635,14 +635,14 @@ body{
     background-image: url(../images/middle2.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 90%; 
+    background-size: contain; 
     background-color: #ffffff;
   }
   .section14-2{
     background-image: url(../images/strip_5.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 90%;
+    background-size: contain;
     background-color: #ffffff;  
   }
   .section14-3{
